@@ -1,0 +1,11 @@
+road_id,start_node,end_node,road_name,length_km,lanes,capacity,speed_limit
+R01,N01,N02,Katpadi Road,2.5,4,2400,50
+R02,N02,N03,Gandhi Nagar Road,1.8,4,2200,40
+R03,N03,N04,Arcot Road,3.2,4,2500,50
+R04,N04,N05,Chittoor Road,2.7,4,2300,50
+R05,N02,N06,Old Katpadi Road,1.5,2,1200,40
+R06,N06,N07,Officers Line,2.0,2,1300,40
+R07,N07,N08,Bangalore Road,2.8,4,2400,50
+R08,N03,N09,Christian Medical College Road,1.6,2,1100,30
+R09,N09,N10,Thorapadi Road,2.3,2,1200,40
+R10,N05,N10,National Highway Corridor,3.5,4,2800,60

@@ -1,0 +1,6 @@
+junction_id,junction_name,green_time,red_time,yellow_time
+J01,Katpadi Junction,60,50,5
+J02,Gandhi Nagar Junction,50,55,5
+J03,Arcot Road Junction,55,50,5
+J04,Chittoor Road Junction,60,45,5
+J05,CMC Junction,45,60,5
